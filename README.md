@@ -16,4 +16,5 @@
     5. import easyocr
     6. import imageio.v3 as iio
     7. from streamlit_extras.colored_header import colored_header
+    8. from streamlit_option_menu import option_menu
     
